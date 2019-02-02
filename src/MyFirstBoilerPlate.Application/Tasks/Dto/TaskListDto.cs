@@ -11,6 +11,6 @@ namespace MyFirstBoilerPlate.Tasks.Dto
         public string Title { get; set; }
         public string Description { get; set; }
         public DateTime CreationTime { get; set; }
-        public TaskState State { get; set; }{
+        public TaskState State { get; set; }
     }
 }
