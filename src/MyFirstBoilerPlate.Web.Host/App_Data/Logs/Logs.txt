@@ -1,0 +1,371 @@
+DEBUG 2019-01-06 09:22:46,658 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2019-01-06 09:22:46,829 [1    ] Abp.Modules.AbpModuleManager             - Found 15 ABP modules in total.
+DEBUG 2019-01-06 09:22:46,848 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: MyFirstBoilerPlate.Web.Host.Startup.MyFirstBoilerPlateWebHostModule, MyFirstBoilerPlate.Web.Host, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-01-06 09:22:46,852 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: MyFirstBoilerPlate.MyFirstBoilerPlateWebCoreModule, MyFirstBoilerPlate.Web.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-01-06 09:22:46,852 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: MyFirstBoilerPlate.MyFirstBoilerPlateApplicationModule, MyFirstBoilerPlate.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-01-06 09:22:46,852 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: MyFirstBoilerPlate.MyFirstBoilerPlateCoreModule, MyFirstBoilerPlate.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-01-06 09:22:46,852 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCoreModule, Abp.ZeroCore, Version=4.0.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-01-06 09:22:46,853 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCommonModule, Abp.Zero.Common, Version=4.0.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-01-06 09:22:46,853 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=4.0.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-01-06 09:22:46,854 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AutoMapper.AbpAutoMapperModule, Abp.AutoMapper, Version=4.0.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-01-06 09:22:46,855 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: MyFirstBoilerPlate.EntityFrameworkCore.MyFirstBoilerPlateEntityFrameworkModule, MyFirstBoilerPlate.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-01-06 09:22:46,855 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.EntityFrameworkCore.AbpZeroCoreEntityFrameworkCoreModule, Abp.ZeroCore.EntityFrameworkCore, Version=4.0.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-01-06 09:22:46,856 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFrameworkCore.AbpEntityFrameworkCoreModule, Abp.EntityFrameworkCore, Version=4.0.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-01-06 09:22:46,856 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkCommonModule, Abp.EntityFramework.Common, Version=4.0.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-01-06 09:22:46,856 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AspNetCore.AbpAspNetCoreModule, Abp.AspNetCore, Version=4.0.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-01-06 09:22:46,857 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=4.0.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-01-06 09:22:46,857 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AspNetCore.SignalR.AbpAspNetCoreSignalRModule, Abp.AspNetCore.SignalR, Version=4.0.1.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-01-06 09:22:46,861 [1    ] Abp.Modules.AbpModuleManager             - 15 modules loaded.
+DEBUG 2019-01-06 09:22:46,970 [1    ] o.Configuration.LanguageManagementConfig - Converted Abp (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2019-01-06 09:22:46,970 [1    ] o.Configuration.LanguageManagementConfig - Converted AbpZero (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2019-01-06 09:22:46,970 [1    ] o.Configuration.LanguageManagementConfig - Converted MyFirstBoilerPlate (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2019-01-06 09:22:46,970 [1    ] o.Configuration.LanguageManagementConfig - Converted AbpWeb (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2019-01-06 09:22:47,403 [1    ] ameworkCore.AbpEntityFrameworkCoreModule - Registering DbContext: MyFirstBoilerPlate.EntityFrameworkCore.MyFirstBoilerPlateDbContext, MyFirstBoilerPlate.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-01-06 09:22:49,355 [1    ] Abp.Localization.LocalizationManager     - Initializing 4 localization sources.
+DEBUG 2019-01-06 09:22:49,588 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2019-01-06 09:22:49,918 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpZero
+DEBUG 2019-01-06 09:22:50,089 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: MyFirstBoilerPlate
+DEBUG 2019-01-06 09:22:50,305 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWeb
+DEBUG 2019-01-06 09:22:50,782 [1    ] Abp.BackgroundJobs.BackgroundJobManager  - Start background worker: Abp.BackgroundJobs.BackgroundJobManager
+DEBUG 2019-01-06 09:22:50,841 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Found 10 classes define auto mapping attributes
+DEBUG 2019-01-06 09:22:50,841 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - MyFirstBoilerPlate.Models.TokenAuth.ExternalLoginProviderInfoModel
+DEBUG 2019-01-06 09:22:50,851 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - MyFirstBoilerPlate.Users.Dto.CreateUserDto
+DEBUG 2019-01-06 09:22:50,852 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - MyFirstBoilerPlate.Users.Dto.UserDto
+DEBUG 2019-01-06 09:22:50,853 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - MyFirstBoilerPlate.Sessions.Dto.TenantLoginInfoDto
+DEBUG 2019-01-06 09:22:50,853 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - MyFirstBoilerPlate.Sessions.Dto.UserLoginInfoDto
+DEBUG 2019-01-06 09:22:50,853 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - MyFirstBoilerPlate.Roles.Dto.CreateRoleDto
+DEBUG 2019-01-06 09:22:50,853 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - MyFirstBoilerPlate.Roles.Dto.PermissionDto
+DEBUG 2019-01-06 09:22:50,853 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - MyFirstBoilerPlate.Roles.Dto.RoleDto
+DEBUG 2019-01-06 09:22:50,854 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - MyFirstBoilerPlate.MultiTenancy.Dto.CreateTenantDto
+DEBUG 2019-01-06 09:22:50,854 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - MyFirstBoilerPlate.MultiTenancy.Dto.TenantDto
+INFO  2019-01-06 09:23:04,654 [5    ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:21021/  
+INFO  2019-01-06 09:23:11,402 [5    ] ore.Mvc.Internal.ControllerActionInvoker - Route matched with {action = "Index", controller = "Home", area = ""}. Executing action MyFirstBoilerPlate.Web.Host.Controllers.HomeController.Index (MyFirstBoilerPlate.Web.Host)
+INFO  2019-01-06 09:23:13,472 [5    ] ore.Mvc.Internal.ControllerActionInvoker - Executing action method MyFirstBoilerPlate.Web.Host.Controllers.HomeController.Index (MyFirstBoilerPlate.Web.Host) - Validation state: Valid
+INFO  2019-01-06 09:23:13,483 [5    ] ore.Mvc.Internal.ControllerActionInvoker - Executed action method MyFirstBoilerPlate.Web.Host.Controllers.HomeController.Index (MyFirstBoilerPlate.Web.Host), returned result Microsoft.AspNetCore.Mvc.RedirectResult in 2.9129ms.
+INFO  2019-01-06 09:23:13,844 [15   ] vc.Infrastructure.RedirectResultExecutor - Executing RedirectResult, redirecting to /swagger.
+INFO  2019-01-06 09:23:13,867 [15   ] ore.Mvc.Internal.ControllerActionInvoker - Executed action MyFirstBoilerPlate.Web.Host.Controllers.HomeController.Index (MyFirstBoilerPlate.Web.Host) in 2454.9754ms
+INFO  2019-01-06 09:23:13,957 [15   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 9315.023ms 302 
+INFO  2019-01-06 09:23:13,981 [15   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:21021/swagger  
+INFO  2019-01-06 09:23:14,002 [15   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 37.3973ms 301 
+INFO  2019-01-06 09:23:14,009 [15   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:21021/swagger/index.html  
+INFO  2019-01-06 09:23:14,057 [15   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 47.913ms 200 text/html
+INFO  2019-01-06 09:23:14,077 [14   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:21021/swagger/swagger-ui.css  
+INFO  2019-01-06 09:23:14,091 [5    ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:21021/swagger/swagger-ui-bundle.js  
+INFO  2019-01-06 09:23:14,205 [4    ] NetCore.StaticFiles.StaticFileMiddleware - Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+INFO  2019-01-06 09:23:14,379 [10   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:21021/swagger/ui/abp.js  
+INFO  2019-01-06 09:23:14,422 [4    ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 346.6213ms 200 text/css
+INFO  2019-01-06 09:23:14,429 [4    ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:21021/swagger/swagger-ui-standalone-preset.js  
+INFO  2019-01-06 09:23:14,498 [14   ] NetCore.StaticFiles.StaticFileMiddleware - Sending file. Request path: '/swagger/ui/abp.js'. Physical path: '/Users/huzaifahdzulkifli/Downloads/4.3.1/aspnet-core/src/MyFirstBoilerPlate.Web.Host/wwwroot/swagger/ui/abp.js'
+INFO  2019-01-06 09:23:14,505 [10   ] NetCore.StaticFiles.StaticFileMiddleware - Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+INFO  2019-01-06 09:23:14,527 [14   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 141.9849ms 200 application/javascript
+INFO  2019-01-06 09:23:14,533 [14   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:21021/swagger/ui/abp.swagger.js  
+INFO  2019-01-06 09:23:14,540 [10   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 442.9073ms 200 application/javascript
+INFO  2019-01-06 09:23:14,581 [10   ] NetCore.StaticFiles.StaticFileMiddleware - Sending file. Request path: '/swagger/ui/abp.swagger.js'. Physical path: '/Users/huzaifahdzulkifli/Downloads/4.3.1/aspnet-core/src/MyFirstBoilerPlate.Web.Host/wwwroot/swagger/ui/abp.swagger.js'
+INFO  2019-01-06 09:23:14,640 [10   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 65.8293ms 200 application/javascript
+INFO  2019-01-06 09:23:14,681 [4    ] NetCore.StaticFiles.StaticFileMiddleware - Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+INFO  2019-01-06 09:23:14,687 [4    ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 259.011ms 200 application/javascript
+INFO  2019-01-06 09:23:15,503 [15   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:21021/swagger/v1/swagger.json  
+INFO  2019-01-06 09:23:15,696 [13   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:21021/swagger/favicon-32x32.png  
+INFO  2019-01-06 09:23:15,702 [13   ] NetCore.StaticFiles.StaticFileMiddleware - Sending file. Request path: '/favicon-32x32.png'. Physical path: 'N/A'
+INFO  2019-01-06 09:23:15,708 [13   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 11.8312ms 200 image/png
+INFO  2019-01-06 09:23:15,714 [13   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:21021/swagger/favicon-16x16.png  
+INFO  2019-01-06 09:23:15,720 [13   ] NetCore.StaticFiles.StaticFileMiddleware - Sending file. Request path: '/favicon-16x16.png'. Physical path: 'N/A'
+INFO  2019-01-06 09:23:15,727 [13   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 11.9261ms 200 image/png
+INFO  2019-01-06 09:23:15,850 [15   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 348.6218ms 200 application/json;charset=utf-8
+INFO  2019-01-06 09:28:14,132 [10   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 OPTIONS http://localhost:21021/AbpUserConfiguration/GetAll  
+INFO  2019-01-06 09:28:14,193 [10   ] pNetCore.Cors.Infrastructure.CorsService - Policy execution successful.
+INFO  2019-01-06 09:28:14,212 [10   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 171.9779ms 204 
+INFO  2019-01-06 09:28:14,220 [10   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:21021/AbpUserConfiguration/GetAll application/json 
+INFO  2019-01-06 09:28:14,226 [10   ] pNetCore.Cors.Infrastructure.CorsService - Policy execution successful.
+INFO  2019-01-06 09:28:14,243 [10   ] uthentication.JwtBearer.JwtBearerHandler - JwtBearer was not authenticated. Failure message: No SecurityTokenValidator available for token: null
+WARN  2019-01-06 09:28:14,256 [10   ] calization.RequestLocalizationMiddleware - AbpLocalizationHeaderRequestCultureProvider returned the following unsupported cultures 'null'.
+WARN  2019-01-06 09:28:14,262 [10   ] calization.RequestLocalizationMiddleware - AbpLocalizationHeaderRequestCultureProvider returned the following unsupported UI Cultures 'null'.
+INFO  2019-01-06 09:28:14,303 [10   ] ore.Mvc.Internal.ControllerActionInvoker - Route matched with {action = "GetAll", controller = "AbpUserConfiguration", area = ""}. Executing action Abp.AspNetCore.Mvc.Controllers.AbpUserConfigurationController.GetAll (Abp.AspNetCore)
+INFO  2019-01-06 09:28:14,308 [10   ] pNetCore.Cors.Infrastructure.CorsService - Policy execution successful.
+INFO  2019-01-06 09:28:14,318 [10   ] ore.Mvc.Internal.ControllerActionInvoker - Executing action method Abp.AspNetCore.Mvc.Controllers.AbpUserConfigurationController.GetAll (Abp.AspNetCore) - Validation state: Valid
+INFO  2019-01-06 09:28:15,656 [10   ] ore.Mvc.Internal.ControllerActionInvoker - Executed action method Abp.AspNetCore.Mvc.Controllers.AbpUserConfigurationController.GetAll (Abp.AspNetCore), returned result Microsoft.AspNetCore.Mvc.JsonResult in 1330.6113ms.
+INFO  2019-01-06 09:28:16,124 [22   ] matters.Json.Internal.JsonResultExecutor - Executing JsonResult, writing value of type 'Abp.Web.Models.AjaxResponse'.
+INFO  2019-01-06 09:28:16,185 [22   ] ore.Mvc.Internal.ControllerActionInvoker - Executed action Abp.AspNetCore.Mvc.Controllers.AbpUserConfigurationController.GetAll (Abp.AspNetCore) in 1876.3442ms
+INFO  2019-01-06 09:28:16,193 [22   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 1973.0393ms 200 application/json; charset=utf-8
+INFO  2019-01-06 09:28:16,234 [22   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 OPTIONS http://localhost:21021/api/services/app/Session/GetCurrentLoginInformations  
+INFO  2019-01-06 09:28:16,258 [22   ] pNetCore.Cors.Infrastructure.CorsService - Policy execution successful.
+INFO  2019-01-06 09:28:16,316 [22   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 90.2394ms 204 
+INFO  2019-01-06 09:28:16,322 [22   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:21021/api/services/app/Session/GetCurrentLoginInformations application/json 
+INFO  2019-01-06 09:28:16,329 [22   ] pNetCore.Cors.Infrastructure.CorsService - Policy execution successful.
+INFO  2019-01-06 09:28:16,354 [22   ] ore.Mvc.Internal.ControllerActionInvoker - Route matched with {area = "app", action = "GetCurrentLoginInformations", controller = "Session"}. Executing action MyFirstBoilerPlate.Sessions.SessionAppService.GetCurrentLoginInformations (MyFirstBoilerPlate.Application)
+INFO  2019-01-06 09:28:16,360 [22   ] pNetCore.Cors.Infrastructure.CorsService - Policy execution successful.
+INFO  2019-01-06 09:28:16,500 [22   ] ore.Mvc.Internal.ControllerActionInvoker - Executing action method MyFirstBoilerPlate.Sessions.SessionAppService.GetCurrentLoginInformations (MyFirstBoilerPlate.Application) - Validation state: Valid
+INFO  2019-01-06 09:28:16,516 [22   ] ore.Mvc.Internal.ControllerActionInvoker - Executed action method MyFirstBoilerPlate.Sessions.SessionAppService.GetCurrentLoginInformations (MyFirstBoilerPlate.Application), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 7.9611ms.
+INFO  2019-01-06 09:28:16,549 [22   ] .Mvc.Infrastructure.ObjectResultExecutor - Executing ObjectResult, writing value of type 'Abp.Web.Models.AjaxResponse'.
+INFO  2019-01-06 09:28:16,578 [22   ] ore.Mvc.Internal.ControllerActionInvoker - Executed action MyFirstBoilerPlate.Sessions.SessionAppService.GetCurrentLoginInformations (MyFirstBoilerPlate.Application) in 217.8701ms
+INFO  2019-01-06 09:28:16,585 [22   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 262.5752ms 200 application/json; charset=utf-8
+INFO  2019-01-06 09:28:25,539 [22   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 OPTIONS http://localhost:21021/api/TokenAuth/Authenticate  
+INFO  2019-01-06 09:28:25,546 [22   ] pNetCore.Cors.Infrastructure.CorsService - Policy execution successful.
+INFO  2019-01-06 09:28:25,553 [22   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 14.4441ms 204 
+INFO  2019-01-06 09:28:25,561 [22   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:21021/api/TokenAuth/Authenticate application/json 77
+INFO  2019-01-06 09:28:25,567 [22   ] pNetCore.Cors.Infrastructure.CorsService - Policy execution successful.
+INFO  2019-01-06 09:28:25,605 [22   ] ore.Mvc.Internal.ControllerActionInvoker - Route matched with {action = "Authenticate", controller = "TokenAuth", area = ""}. Executing action MyFirstBoilerPlate.Controllers.TokenAuthController.Authenticate (MyFirstBoilerPlate.Web.Core)
+INFO  2019-01-06 09:28:25,611 [22   ] pNetCore.Cors.Infrastructure.CorsService - Policy execution successful.
+INFO  2019-01-06 09:28:26,466 [22   ] ore.Mvc.Internal.ControllerActionInvoker - Executing action method MyFirstBoilerPlate.Controllers.TokenAuthController.Authenticate (MyFirstBoilerPlate.Web.Core) with arguments (MyFirstBoilerPlate.Models.TokenAuth.AuthenticateModel) - Validation state: Valid
+INFO  2019-01-06 09:28:29,043 [30   ] ore.Mvc.Internal.ControllerActionInvoker - Executed action method MyFirstBoilerPlate.Controllers.TokenAuthController.Authenticate (MyFirstBoilerPlate.Web.Core), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 2570.6085ms.
+INFO  2019-01-06 09:28:29,567 [39   ] .Mvc.Infrastructure.ObjectResultExecutor - Executing ObjectResult, writing value of type 'Abp.Web.Models.AjaxResponse'.
+INFO  2019-01-06 09:28:29,576 [39   ] ore.Mvc.Internal.ControllerActionInvoker - Executed action MyFirstBoilerPlate.Controllers.TokenAuthController.Authenticate (MyFirstBoilerPlate.Web.Core) in 3964.9321ms
+INFO  2019-01-06 09:28:29,585 [39   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 4022.3606ms 200 application/json; charset=utf-8
+INFO  2019-01-06 09:28:30,009 [30   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 OPTIONS http://localhost:21021/AbpUserConfiguration/GetAll  
+INFO  2019-01-06 09:28:30,015 [30   ] pNetCore.Cors.Infrastructure.CorsService - Policy execution successful.
+INFO  2019-01-06 09:28:30,021 [30   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 11.9965ms 204 
+INFO  2019-01-06 09:28:30,038 [39   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:21021/AbpUserConfiguration/GetAll application/json 
+INFO  2019-01-06 09:28:30,046 [39   ] pNetCore.Cors.Infrastructure.CorsService - Policy execution successful.
+INFO  2019-01-06 09:28:30,119 [39   ] uthentication.JwtBearer.JwtBearerHandler - Successfully validated the token.
+WARN  2019-01-06 09:28:30,751 [33   ] calization.RequestLocalizationMiddleware - AbpUserRequestCultureProvider returned the following unsupported cultures 'null'.
+WARN  2019-01-06 09:28:30,758 [33   ] calization.RequestLocalizationMiddleware - AbpUserRequestCultureProvider returned the following unsupported UI Cultures 'null'.
+WARN  2019-01-06 09:28:30,764 [33   ] calization.RequestLocalizationMiddleware - AbpLocalizationHeaderRequestCultureProvider returned the following unsupported cultures 'null'.
+WARN  2019-01-06 09:28:30,769 [33   ] calization.RequestLocalizationMiddleware - AbpLocalizationHeaderRequestCultureProvider returned the following unsupported UI Cultures 'null'.
+WARN  2019-01-06 09:28:30,975 [30   ] calization.RequestLocalizationMiddleware - AbpDefaultRequestCultureProvider returned the following unsupported cultures 'null'.
+WARN  2019-01-06 09:28:30,982 [30   ] calization.RequestLocalizationMiddleware - AbpDefaultRequestCultureProvider returned the following unsupported UI Cultures 'null'.
+INFO  2019-01-06 09:28:31,009 [30   ] ore.Mvc.Internal.ControllerActionInvoker - Route matched with {action = "GetAll", controller = "AbpUserConfiguration", area = ""}. Executing action Abp.AspNetCore.Mvc.Controllers.AbpUserConfigurationController.GetAll (Abp.AspNetCore)
+INFO  2019-01-06 09:28:31,014 [30   ] pNetCore.Cors.Infrastructure.CorsService - Policy execution successful.
+INFO  2019-01-06 09:28:31,020 [30   ] ore.Mvc.Internal.ControllerActionInvoker - Executing action method Abp.AspNetCore.Mvc.Controllers.AbpUserConfigurationController.GetAll (Abp.AspNetCore) - Validation state: Valid
+INFO  2019-01-06 09:28:31,995 [31   ] ore.Mvc.Internal.ControllerActionInvoker - Executed action method Abp.AspNetCore.Mvc.Controllers.AbpUserConfigurationController.GetAll (Abp.AspNetCore), returned result Microsoft.AspNetCore.Mvc.JsonResult in 957.9058ms.
+INFO  2019-01-06 09:28:32,220 [31   ] matters.Json.Internal.JsonResultExecutor - Executing JsonResult, writing value of type 'Abp.Web.Models.AjaxResponse'.
+INFO  2019-01-06 09:28:32,228 [31   ] ore.Mvc.Internal.ControllerActionInvoker - Executed action Abp.AspNetCore.Mvc.Controllers.AbpUserConfigurationController.GetAll (Abp.AspNetCore) in 1212.6195ms
+INFO  2019-01-06 09:28:32,239 [31   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 2203.44ms 200 application/json; charset=utf-8
+INFO  2019-01-06 09:28:32,247 [31   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 OPTIONS http://localhost:21021/api/services/app/Session/GetCurrentLoginInformations  
+INFO  2019-01-06 09:28:32,253 [31   ] pNetCore.Cors.Infrastructure.CorsService - Policy execution successful.
+INFO  2019-01-06 09:28:32,259 [31   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 14.3343ms 204 
+INFO  2019-01-06 09:28:32,265 [31   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:21021/api/services/app/Session/GetCurrentLoginInformations application/json 
+INFO  2019-01-06 09:28:32,271 [31   ] pNetCore.Cors.Infrastructure.CorsService - Policy execution successful.
+INFO  2019-01-06 09:28:32,277 [31   ] uthentication.JwtBearer.JwtBearerHandler - Successfully validated the token.
+WARN  2019-01-06 09:28:32,284 [31   ] calization.RequestLocalizationMiddleware - AbpUserRequestCultureProvider returned the following unsupported cultures 'null'.
+WARN  2019-01-06 09:28:32,296 [31   ] calization.RequestLocalizationMiddleware - AbpUserRequestCultureProvider returned the following unsupported UI Cultures 'null'.
+WARN  2019-01-06 09:28:32,302 [31   ] calization.RequestLocalizationMiddleware - AbpDefaultRequestCultureProvider returned the following unsupported cultures 'null'.
+WARN  2019-01-06 09:28:32,308 [31   ] calization.RequestLocalizationMiddleware - AbpDefaultRequestCultureProvider returned the following unsupported UI Cultures 'null'.
+INFO  2019-01-06 09:28:32,319 [31   ] ore.Mvc.Internal.ControllerActionInvoker - Route matched with {area = "app", action = "GetCurrentLoginInformations", controller = "Session"}. Executing action MyFirstBoilerPlate.Sessions.SessionAppService.GetCurrentLoginInformations (MyFirstBoilerPlate.Application)
+INFO  2019-01-06 09:28:32,327 [31   ] pNetCore.Cors.Infrastructure.CorsService - Policy execution successful.
+INFO  2019-01-06 09:28:32,346 [31   ] ore.Mvc.Internal.ControllerActionInvoker - Executing action method MyFirstBoilerPlate.Sessions.SessionAppService.GetCurrentLoginInformations (MyFirstBoilerPlate.Application) - Validation state: Valid
+INFO  2019-01-06 09:28:32,556 [39   ] ore.Mvc.Internal.ControllerActionInvoker - Executed action method MyFirstBoilerPlate.Sessions.SessionAppService.GetCurrentLoginInformations (MyFirstBoilerPlate.Application), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 204.0565ms.
+INFO  2019-01-06 09:28:32,614 [39   ] .Mvc.Infrastructure.ObjectResultExecutor - Executing ObjectResult, writing value of type 'Abp.Web.Models.AjaxResponse'.
+INFO  2019-01-06 09:28:32,622 [39   ] ore.Mvc.Internal.ControllerActionInvoker - Executed action MyFirstBoilerPlate.Sessions.SessionAppService.GetCurrentLoginInformations (MyFirstBoilerPlate.Application) in 296.033ms
+INFO  2019-01-06 09:28:32,628 [39   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 362.3053ms 200 application/json; charset=utf-8
+INFO  2019-01-06 09:28:33,312 [30   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 OPTIONS http://localhost:21021/signalr/negotiate?enc_auth_token=wNYmO41%2F48SHNstaLVXxHCCre29BZQl1NhC6NM3R3rzpXtPQxVzH6jEzA%2FQhXFN5tu6Fk7pO53uppm1mVXMZgxbyRVz26dnepi%2FFyB6axBY%2B6gq1GL%2BuRQgoiFUCjRN2p8w6LevViwKlHyWZZJZO1DGVSjAi1m2U%2Bog9pkHw9%2FQR4Nl%2FDPnoP9JYDMpZ1zxx09u6s0GZ9%2FQ5Sjk%2BL0UfcSCbl38X8he5w9UIn%2FHvxh7ysM1CiPLsoOwtbiieSRVmrmt0JjnipAn4%2FK283F8GrGwzwgehWsqefmUnM0ckMwP9ZAdwQxWDhxv0IqNw4tDhwUYs%2F1SYdYozdNzgByhgNOBPzQDObNLlWc4vV5VMOiaW8T6VGu9AIWS87KekQ49wp7EWa9LkfhcDgIuj85Vf3EF8V0E0ySaJAoJk3%2B0%2BbKerClO2tpZzeQcPJSY3YsgOXGmmP6hA2ai2cFuTNXGym5NDX1ngh3zYeH%2B35pJJOiW%2FVM7WWxRGKhAdHC%2FfJVqAyHrhPpz8l1T1KpQHj4x9QiXoqaeb0ehMMov5g2WDin9VtNcdddKqEsUgcbcdAbBPy%2F2fQC6O5557Q1TvRHR8OgNobHhQWylN1TAXZ9LSjmr57iO2xWsB9bhbenhneMdIv9cUV2S5BEogVkN%2ByLcFcQfD5JjFAVu9uyNJJPBW%2BVx7TA9vB%2Fxuw9t0blw7btxNhvlcq41drKj0k9e%2BrKFgcdfC8TFUStgvURCJ4BaybunynfPWS1jigRMX%2FC1cNp8ZviNTj4zeu8Dk9ZyhoopZIivlsmAWJaFnA%2BMJ9P3%2BhFUvDwtOISqB%2BLFJ0vCQksg0W%2BMIS53rBElm%2Bc%2BHxydLLRUTUJwCenaYNNQPBvmfrAW%2FkdQrq%2FzjqcXcKV3h5iAVhgYnI8yYCdEjBuRrlN1WWQ%3D%3D  
+INFO  2019-01-06 09:28:33,318 [30   ] pNetCore.Cors.Infrastructure.CorsService - Policy execution successful.
+INFO  2019-01-06 09:28:33,323 [30   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 11.459ms 204 
+INFO  2019-01-06 09:28:33,474 [39   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:21021/signalr/negotiate?enc_auth_token=wNYmO41%2F48SHNstaLVXxHCCre29BZQl1NhC6NM3R3rzpXtPQxVzH6jEzA%2FQhXFN5tu6Fk7pO53uppm1mVXMZgxbyRVz26dnepi%2FFyB6axBY%2B6gq1GL%2BuRQgoiFUCjRN2p8w6LevViwKlHyWZZJZO1DGVSjAi1m2U%2Bog9pkHw9%2FQR4Nl%2FDPnoP9JYDMpZ1zxx09u6s0GZ9%2FQ5Sjk%2BL0UfcSCbl38X8he5w9UIn%2FHvxh7ysM1CiPLsoOwtbiieSRVmrmt0JjnipAn4%2FK283F8GrGwzwgehWsqefmUnM0ckMwP9ZAdwQxWDhxv0IqNw4tDhwUYs%2F1SYdYozdNzgByhgNOBPzQDObNLlWc4vV5VMOiaW8T6VGu9AIWS87KekQ49wp7EWa9LkfhcDgIuj85Vf3EF8V0E0ySaJAoJk3%2B0%2BbKerClO2tpZzeQcPJSY3YsgOXGmmP6hA2ai2cFuTNXGym5NDX1ngh3zYeH%2B35pJJOiW%2FVM7WWxRGKhAdHC%2FfJVqAyHrhPpz8l1T1KpQHj4x9QiXoqaeb0ehMMov5g2WDin9VtNcdddKqEsUgcbcdAbBPy%2F2fQC6O5557Q1TvRHR8OgNobHhQWylN1TAXZ9LSjmr57iO2xWsB9bhbenhneMdIv9cUV2S5BEogVkN%2ByLcFcQfD5JjFAVu9uyNJJPBW%2BVx7TA9vB%2Fxuw9t0blw7btxNhvlcq41drKj0k9e%2BrKFgcdfC8TFUStgvURCJ4BaybunynfPWS1jigRMX%2FC1cNp8ZviNTj4zeu8Dk9ZyhoopZIivlsmAWJaFnA%2BMJ9P3%2BhFUvDwtOISqB%2BLFJ0vCQksg0W%2BMIS53rBElm%2Bc%2BHxydLLRUTUJwCenaYNNQPBvmfrAW%2FkdQrq%2FzjqcXcKV3h5iAVhgYnI8yYCdEjBuRrlN1WWQ%3D%3D text/plain;charset=UTF-8 0
+INFO  2019-01-06 09:28:33,488 [39   ] pNetCore.Cors.Infrastructure.CorsService - Policy execution successful.
+INFO  2019-01-06 09:28:33,505 [39   ] uthentication.JwtBearer.JwtBearerHandler - Successfully validated the token.
+WARN  2019-01-06 09:28:33,511 [39   ] calization.RequestLocalizationMiddleware - AbpUserRequestCultureProvider returned the following unsupported cultures 'null'.
+WARN  2019-01-06 09:28:33,517 [39   ] calization.RequestLocalizationMiddleware - AbpUserRequestCultureProvider returned the following unsupported UI Cultures 'null'.
+WARN  2019-01-06 09:28:33,540 [39   ] calization.RequestLocalizationMiddleware - AbpDefaultRequestCultureProvider returned the following unsupported cultures 'null'.
+WARN  2019-01-06 09:28:33,562 [39   ] calization.RequestLocalizationMiddleware - AbpDefaultRequestCultureProvider returned the following unsupported UI Cultures 'null'.
+INFO  2019-01-06 09:28:33,625 [39   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 192.8391ms 200 application/json
+INFO  2019-01-06 09:28:33,706 [39   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:21021/signalr?enc_auth_token=wNYmO41%2F48SHNstaLVXxHCCre29BZQl1NhC6NM3R3rzpXtPQxVzH6jEzA%2FQhXFN5tu6Fk7pO53uppm1mVXMZgxbyRVz26dnepi%2FFyB6axBY%2B6gq1GL%2BuRQgoiFUCjRN2p8w6LevViwKlHyWZZJZO1DGVSjAi1m2U%2Bog9pkHw9%2FQR4Nl%2FDPnoP9JYDMpZ1zxx09u6s0GZ9%2FQ5Sjk%2BL0UfcSCbl38X8he5w9UIn%2FHvxh7ysM1CiPLsoOwtbiieSRVmrmt0JjnipAn4%2FK283F8GrGwzwgehWsqefmUnM0ckMwP9ZAdwQxWDhxv0IqNw4tDhwUYs%2F1SYdYozdNzgByhgNOBPzQDObNLlWc4vV5VMOiaW8T6VGu9AIWS87KekQ49wp7EWa9LkfhcDgIuj85Vf3EF8V0E0ySaJAoJk3%2B0%2BbKerClO2tpZzeQcPJSY3YsgOXGmmP6hA2ai2cFuTNXGym5NDX1ngh3zYeH%2B35pJJOiW%2FVM7WWxRGKhAdHC%2FfJVqAyHrhPpz8l1T1KpQHj4x9QiXoqaeb0ehMMov5g2WDin9VtNcdddKqEsUgcbcdAbBPy%2F2fQC6O5557Q1TvRHR8OgNobHhQWylN1TAXZ9LSjmr57iO2xWsB9bhbenhneMdIv9cUV2S5BEogVkN%2ByLcFcQfD5JjFAVu9uyNJJPBW%2BVx7TA9vB%2Fxuw9t0blw7btxNhvlcq41drKj0k9e%2BrKFgcdfC8TFUStgvURCJ4BaybunynfPWS1jigRMX%2FC1cNp8ZviNTj4zeu8Dk9ZyhoopZIivlsmAWJaFnA%2BMJ9P3%2BhFUvDwtOISqB%2BLFJ0vCQksg0W%2BMIS53rBElm%2Bc%2BHxydLLRUTUJwCenaYNNQPBvmfrAW%2FkdQrq%2FzjqcXcKV3h5iAVhgYnI8yYCdEjBuRrlN1WWQ%3D%3D&id=kNru17cNrjLvPObV6vqT1w  
+INFO  2019-01-06 09:28:33,713 [39   ] pNetCore.Cors.Infrastructure.CorsService - Policy execution successful.
+INFO  2019-01-06 09:28:33,722 [39   ] uthentication.JwtBearer.JwtBearerHandler - Successfully validated the token.
+WARN  2019-01-06 09:28:33,730 [39   ] calization.RequestLocalizationMiddleware - AbpUserRequestCultureProvider returned the following unsupported cultures 'null'.
+WARN  2019-01-06 09:28:33,742 [39   ] calization.RequestLocalizationMiddleware - AbpUserRequestCultureProvider returned the following unsupported UI Cultures 'null'.
+WARN  2019-01-06 09:28:33,749 [39   ] calization.RequestLocalizationMiddleware - AbpDefaultRequestCultureProvider returned the following unsupported cultures 'null'.
+WARN  2019-01-06 09:28:33,755 [39   ] calization.RequestLocalizationMiddleware - AbpDefaultRequestCultureProvider returned the following unsupported UI Cultures 'null'.
+INFO  2019-01-06 09:28:34,110 [31   ] .AspNetCore.SignalR.HubConnectionContext - Completed connection handshake. Using HubProtocol 'json'.
+DEBUG 2019-01-06 09:28:34,148 [31   ] Abp.AspNetCore.SignalR.Hubs.AbpCommonHub - A client is connected: {"ConnectionId":"kNru17cNrjLvPObV6vqT1w","IpAddress":"::1","TenantId":null,"UserId":1,"ConnectTime":"2019-01-06T09:28:34.143153+08:00","Properties":{}}
+DEBUG 2019-01-06 09:28:34,224 [31   ] Abp.AspNetCore.SignalR.Hubs.AbpCommonHub - A client is registered: kNru17cNrjLvPObV6vqT1w
+INFO  2019-01-06 09:28:48,317 [39   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 OPTIONS http://localhost:21021/api/services/app/Configuration/ChangeUiTheme  
+INFO  2019-01-06 09:28:48,347 [39   ] pNetCore.Cors.Infrastructure.CorsService - Policy execution successful.
+INFO  2019-01-06 09:28:48,353 [39   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 36.2211ms 204 
+INFO  2019-01-06 09:28:48,360 [39   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:21021/api/services/app/Configuration/ChangeUiTheme application/json 18
+INFO  2019-01-06 09:28:48,366 [39   ] pNetCore.Cors.Infrastructure.CorsService - Policy execution successful.
+INFO  2019-01-06 09:28:48,373 [39   ] uthentication.JwtBearer.JwtBearerHandler - Successfully validated the token.
+WARN  2019-01-06 09:28:48,380 [39   ] calization.RequestLocalizationMiddleware - AbpUserRequestCultureProvider returned the following unsupported cultures 'null'.
+WARN  2019-01-06 09:28:48,392 [39   ] calization.RequestLocalizationMiddleware - AbpUserRequestCultureProvider returned the following unsupported UI Cultures 'null'.
+WARN  2019-01-06 09:28:48,399 [39   ] calization.RequestLocalizationMiddleware - AbpDefaultRequestCultureProvider returned the following unsupported cultures 'null'.
+WARN  2019-01-06 09:28:48,405 [39   ] calization.RequestLocalizationMiddleware - AbpDefaultRequestCultureProvider returned the following unsupported UI Cultures 'null'.
+INFO  2019-01-06 09:28:48,420 [39   ] ore.Mvc.Internal.ControllerActionInvoker - Route matched with {area = "app", action = "ChangeUiTheme", controller = "Configuration"}. Executing action MyFirstBoilerPlate.Configuration.ConfigurationAppService.ChangeUiTheme (MyFirstBoilerPlate.Application)
+INFO  2019-01-06 09:28:48,426 [39   ] pNetCore.Cors.Infrastructure.CorsService - Policy execution successful.
+INFO  2019-01-06 09:28:48,578 [39   ] ore.Mvc.Internal.ControllerActionInvoker - Executing action method MyFirstBoilerPlate.Configuration.ConfigurationAppService.ChangeUiTheme (MyFirstBoilerPlate.Application) with arguments (MyFirstBoilerPlate.Configuration.Dto.ChangeUiThemeInput) - Validation state: Valid
+INFO  2019-01-06 09:28:48,999 [33   ] ore.Mvc.Internal.ControllerActionInvoker - Executed action method MyFirstBoilerPlate.Configuration.ConfigurationAppService.ChangeUiTheme (MyFirstBoilerPlate.Application), returned result Microsoft.AspNetCore.Mvc.EmptyResult in 415.1978ms.
+INFO  2019-01-06 09:28:49,309 [40   ] .Mvc.Infrastructure.ObjectResultExecutor - Executing ObjectResult, writing value of type 'Abp.Web.Models.AjaxResponse'.
+INFO  2019-01-06 09:28:49,316 [40   ] ore.Mvc.Internal.ControllerActionInvoker - Executed action MyFirstBoilerPlate.Configuration.ConfigurationAppService.ChangeUiTheme (MyFirstBoilerPlate.Application) in 888.8446ms
+INFO  2019-01-06 09:28:49,323 [40   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 962.7884ms 200 application/json; charset=utf-8
+INFO  2019-01-06 09:28:53,208 [22   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:21021/api/services/app/Configuration/ChangeUiTheme application/json 16
+INFO  2019-01-06 09:28:53,214 [22   ] pNetCore.Cors.Infrastructure.CorsService - Policy execution successful.
+INFO  2019-01-06 09:28:53,221 [22   ] uthentication.JwtBearer.JwtBearerHandler - Successfully validated the token.
+WARN  2019-01-06 09:28:53,507 [31   ] calization.RequestLocalizationMiddleware - AbpUserRequestCultureProvider returned the following unsupported cultures 'null'.
+WARN  2019-01-06 09:28:53,513 [31   ] calization.RequestLocalizationMiddleware - AbpUserRequestCultureProvider returned the following unsupported UI Cultures 'null'.
+WARN  2019-01-06 09:28:53,519 [31   ] calization.RequestLocalizationMiddleware - AbpDefaultRequestCultureProvider returned the following unsupported cultures 'null'.
+WARN  2019-01-06 09:28:53,525 [31   ] calization.RequestLocalizationMiddleware - AbpDefaultRequestCultureProvider returned the following unsupported UI Cultures 'null'.
+INFO  2019-01-06 09:28:53,539 [31   ] ore.Mvc.Internal.ControllerActionInvoker - Route matched with {area = "app", action = "ChangeUiTheme", controller = "Configuration"}. Executing action MyFirstBoilerPlate.Configuration.ConfigurationAppService.ChangeUiTheme (MyFirstBoilerPlate.Application)
+INFO  2019-01-06 09:28:53,546 [31   ] pNetCore.Cors.Infrastructure.CorsService - Policy execution successful.
+INFO  2019-01-06 09:28:53,558 [31   ] ore.Mvc.Internal.ControllerActionInvoker - Executing action method MyFirstBoilerPlate.Configuration.ConfigurationAppService.ChangeUiTheme (MyFirstBoilerPlate.Application) with arguments (MyFirstBoilerPlate.Configuration.Dto.ChangeUiThemeInput) - Validation state: Valid
+INFO  2019-01-06 09:28:53,919 [31   ] ore.Mvc.Internal.ControllerActionInvoker - Executed action method MyFirstBoilerPlate.Configuration.ConfigurationAppService.ChangeUiTheme (MyFirstBoilerPlate.Application), returned result Microsoft.AspNetCore.Mvc.EmptyResult in 355.0894ms.
+INFO  2019-01-06 09:28:54,157 [30   ] .Mvc.Infrastructure.ObjectResultExecutor - Executing ObjectResult, writing value of type 'Abp.Web.Models.AjaxResponse'.
+INFO  2019-01-06 09:28:54,164 [30   ] ore.Mvc.Internal.ControllerActionInvoker - Executed action MyFirstBoilerPlate.Configuration.ConfigurationAppService.ChangeUiTheme (MyFirstBoilerPlate.Application) in 617.6174ms
+INFO  2019-01-06 09:28:54,170 [30   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 963.3174ms 200 application/json; charset=utf-8
+INFO  2019-01-06 09:29:23,253 [31   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 OPTIONS http://localhost:21021/api/services/app/Role/GetAll?SkipCount=0&MaxResultCount=10  
+INFO  2019-01-06 09:29:23,293 [31   ] pNetCore.Cors.Infrastructure.CorsService - Policy execution successful.
+INFO  2019-01-06 09:29:23,302 [31   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 50.2185ms 204 
+INFO  2019-01-06 09:29:23,374 [31   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 OPTIONS http://localhost:21021/api/services/app/Role/GetAllPermissions  
+INFO  2019-01-06 09:29:23,390 [36   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:21021/api/services/app/Role/GetAll?SkipCount=0&MaxResultCount=10 application/json 
+INFO  2019-01-06 09:29:23,397 [31   ] pNetCore.Cors.Infrastructure.CorsService - Policy execution successful.
+INFO  2019-01-06 09:29:23,403 [36   ] pNetCore.Cors.Infrastructure.CorsService - Policy execution successful.
+INFO  2019-01-06 09:29:23,409 [31   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 93.0498ms 204 
+INFO  2019-01-06 09:29:23,431 [31   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:21021/api/services/app/Role/GetAllPermissions application/json 
+INFO  2019-01-06 09:29:23,447 [36   ] uthentication.JwtBearer.JwtBearerHandler - Successfully validated the token.
+INFO  2019-01-06 09:29:23,454 [31   ] pNetCore.Cors.Infrastructure.CorsService - Policy execution successful.
+INFO  2019-01-06 09:29:23,484 [31   ] uthentication.JwtBearer.JwtBearerHandler - Successfully validated the token.
+WARN  2019-01-06 09:29:23,647 [36   ] calization.RequestLocalizationMiddleware - AbpUserRequestCultureProvider returned the following unsupported cultures 'null'.
+WARN  2019-01-06 09:29:23,652 [40   ] calization.RequestLocalizationMiddleware - AbpUserRequestCultureProvider returned the following unsupported cultures 'null'.
+WARN  2019-01-06 09:29:23,657 [36   ] calization.RequestLocalizationMiddleware - AbpUserRequestCultureProvider returned the following unsupported UI Cultures 'null'.
+WARN  2019-01-06 09:29:23,663 [40   ] calization.RequestLocalizationMiddleware - AbpUserRequestCultureProvider returned the following unsupported UI Cultures 'null'.
+WARN  2019-01-06 09:29:23,668 [36   ] calization.RequestLocalizationMiddleware - AbpDefaultRequestCultureProvider returned the following unsupported cultures 'null'.
+WARN  2019-01-06 09:29:23,674 [40   ] calization.RequestLocalizationMiddleware - AbpDefaultRequestCultureProvider returned the following unsupported cultures 'null'.
+WARN  2019-01-06 09:29:23,690 [36   ] calization.RequestLocalizationMiddleware - AbpDefaultRequestCultureProvider returned the following unsupported UI Cultures 'null'.
+WARN  2019-01-06 09:29:23,697 [40   ] calization.RequestLocalizationMiddleware - AbpDefaultRequestCultureProvider returned the following unsupported UI Cultures 'null'.
+INFO  2019-01-06 09:29:23,731 [36   ] ore.Mvc.Internal.ControllerActionInvoker - Route matched with {area = "app", action = "GetAllPermissions", controller = "Role"}. Executing action MyFirstBoilerPlate.Roles.RoleAppService.GetAllPermissions (MyFirstBoilerPlate.Application)
+INFO  2019-01-06 09:29:23,738 [36   ] pNetCore.Cors.Infrastructure.CorsService - Policy execution successful.
+INFO  2019-01-06 09:29:23,805 [40   ] ore.Mvc.Internal.ControllerActionInvoker - Route matched with {area = "app", action = "GetAll", controller = "Role"}. Executing action MyFirstBoilerPlate.Roles.RoleAppService.GetAll (MyFirstBoilerPlate.Application)
+INFO  2019-01-06 09:29:23,810 [40   ] pNetCore.Cors.Infrastructure.CorsService - Policy execution successful.
+INFO  2019-01-06 09:29:24,250 [32   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 OPTIONS http://localhost:21021/api/services/app/User/GetAll?SkipCount=0&MaxResultCount=10  
+INFO  2019-01-06 09:29:24,262 [32   ] pNetCore.Cors.Infrastructure.CorsService - Policy execution successful.
+INFO  2019-01-06 09:29:24,326 [32   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 47.9064ms 204 
+INFO  2019-01-06 09:29:24,341 [32   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:21021/api/services/app/User/GetAll?SkipCount=0&MaxResultCount=10 application/json 
+INFO  2019-01-06 09:29:24,348 [32   ] pNetCore.Cors.Infrastructure.CorsService - Policy execution successful.
+INFO  2019-01-06 09:29:24,399 [34   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 OPTIONS http://localhost:21021/api/services/app/User/GetRoles  
+INFO  2019-01-06 09:29:24,423 [32   ] uthentication.JwtBearer.JwtBearerHandler - Successfully validated the token.
+INFO  2019-01-06 09:29:24,440 [34   ] pNetCore.Cors.Infrastructure.CorsService - Policy execution successful.
+WARN  2019-01-06 09:29:24,447 [32   ] calization.RequestLocalizationMiddleware - AbpUserRequestCultureProvider returned the following unsupported cultures 'null'.
+INFO  2019-01-06 09:29:24,453 [34   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 95.3899ms 204 
+WARN  2019-01-06 09:29:24,459 [32   ] calization.RequestLocalizationMiddleware - AbpUserRequestCultureProvider returned the following unsupported UI Cultures 'null'.
+INFO  2019-01-06 09:29:24,464 [34   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:21021/api/services/app/User/GetRoles application/json 
+INFO  2019-01-06 09:29:24,486 [34   ] pNetCore.Cors.Infrastructure.CorsService - Policy execution successful.
+WARN  2019-01-06 09:29:24,496 [32   ] calization.RequestLocalizationMiddleware - AbpDefaultRequestCultureProvider returned the following unsupported cultures 'null'.
+WARN  2019-01-06 09:29:24,501 [32   ] calization.RequestLocalizationMiddleware - AbpDefaultRequestCultureProvider returned the following unsupported UI Cultures 'null'.
+INFO  2019-01-06 09:29:24,508 [34   ] uthentication.JwtBearer.JwtBearerHandler - Successfully validated the token.
+WARN  2019-01-06 09:29:24,514 [34   ] calization.RequestLocalizationMiddleware - AbpUserRequestCultureProvider returned the following unsupported cultures 'null'.
+WARN  2019-01-06 09:29:24,519 [34   ] calization.RequestLocalizationMiddleware - AbpUserRequestCultureProvider returned the following unsupported UI Cultures 'null'.
+WARN  2019-01-06 09:29:24,527 [34   ] calization.RequestLocalizationMiddleware - AbpDefaultRequestCultureProvider returned the following unsupported cultures 'null'.
+WARN  2019-01-06 09:29:24,546 [34   ] calization.RequestLocalizationMiddleware - AbpDefaultRequestCultureProvider returned the following unsupported UI Cultures 'null'.
+INFO  2019-01-06 09:29:24,556 [36   ] ore.Mvc.Internal.ControllerActionInvoker - Executing action method MyFirstBoilerPlate.Roles.RoleAppService.GetAllPermissions (MyFirstBoilerPlate.Application) - Validation state: Valid
+INFO  2019-01-06 09:29:24,568 [34   ] ore.Mvc.Internal.ControllerActionInvoker - Route matched with {area = "app", action = "GetRoles", controller = "User"}. Executing action MyFirstBoilerPlate.Users.UserAppService.GetRoles (MyFirstBoilerPlate.Application)
+INFO  2019-01-06 09:29:24,575 [34   ] pNetCore.Cors.Infrastructure.CorsService - Policy execution successful.
+INFO  2019-01-06 09:29:24,614 [32   ] ore.Mvc.Internal.ControllerActionInvoker - Route matched with {area = "app", action = "GetAll", controller = "User"}. Executing action MyFirstBoilerPlate.Users.UserAppService.GetAll (MyFirstBoilerPlate.Application)
+INFO  2019-01-06 09:29:24,637 [32   ] pNetCore.Cors.Infrastructure.CorsService - Policy execution successful.
+INFO  2019-01-06 09:29:24,712 [36   ] ore.Mvc.Internal.ControllerActionInvoker - Executed action method MyFirstBoilerPlate.Roles.RoleAppService.GetAllPermissions (MyFirstBoilerPlate.Application), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 130.0251ms.
+INFO  2019-01-06 09:29:25,135 [40   ] ore.Mvc.Internal.ControllerActionInvoker - Executing action method MyFirstBoilerPlate.Roles.RoleAppService.GetAll (MyFirstBoilerPlate.Application) with arguments (MyFirstBoilerPlate.Roles.Dto.PagedRoleResultRequestDto) - Validation state: Valid
+INFO  2019-01-06 09:29:25,149 [34   ] ore.Mvc.Internal.ControllerActionInvoker - Executing action method MyFirstBoilerPlate.Users.UserAppService.GetRoles (MyFirstBoilerPlate.Application) - Validation state: Valid
+INFO  2019-01-06 09:29:25,180 [32   ] ore.Mvc.Internal.ControllerActionInvoker - Executing action method MyFirstBoilerPlate.Users.UserAppService.GetAll (MyFirstBoilerPlate.Application) with arguments (MyFirstBoilerPlate.Users.Dto.PagedUserResultRequestDto) - Validation state: Valid
+INFO  2019-01-06 09:29:25,571 [38   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 OPTIONS http://localhost:21021/api/services/app/Tenant/GetAll?SkipCount=0&MaxResultCount=10  
+INFO  2019-01-06 09:29:25,598 [38   ] pNetCore.Cors.Infrastructure.CorsService - Policy execution successful.
+INFO  2019-01-06 09:29:25,620 [35   ] .Mvc.Infrastructure.ObjectResultExecutor - Executing ObjectResult, writing value of type 'Abp.Web.Models.AjaxResponse'.
+INFO  2019-01-06 09:29:25,641 [38   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 107.5853ms 204 
+INFO  2019-01-06 09:29:25,648 [38   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:21021/api/services/app/Tenant/GetAll?SkipCount=0&MaxResultCount=10 application/json 
+INFO  2019-01-06 09:29:25,653 [38   ] pNetCore.Cors.Infrastructure.CorsService - Policy execution successful.
+INFO  2019-01-06 09:29:25,661 [38   ] uthentication.JwtBearer.JwtBearerHandler - Successfully validated the token.
+INFO  2019-01-06 09:29:25,667 [35   ] ore.Mvc.Internal.ControllerActionInvoker - Executed action MyFirstBoilerPlate.Roles.RoleAppService.GetAllPermissions (MyFirstBoilerPlate.Application) in 1930.15ms
+WARN  2019-01-06 09:29:25,678 [38   ] calization.RequestLocalizationMiddleware - AbpUserRequestCultureProvider returned the following unsupported cultures 'null'.
+INFO  2019-01-06 09:29:25,685 [35   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 2265.9711ms 200 application/json; charset=utf-8
+WARN  2019-01-06 09:29:25,707 [38   ] calization.RequestLocalizationMiddleware - AbpUserRequestCultureProvider returned the following unsupported UI Cultures 'null'.
+WARN  2019-01-06 09:29:25,729 [38   ] calization.RequestLocalizationMiddleware - AbpDefaultRequestCultureProvider returned the following unsupported cultures 'null'.
+WARN  2019-01-06 09:29:25,753 [38   ] calization.RequestLocalizationMiddleware - AbpDefaultRequestCultureProvider returned the following unsupported UI Cultures 'null'.
+INFO  2019-01-06 09:29:25,767 [34   ] ore.Mvc.Internal.ControllerActionInvoker - Executed action method MyFirstBoilerPlate.Users.UserAppService.GetRoles (MyFirstBoilerPlate.Application), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 612.9608ms.
+INFO  2019-01-06 09:29:25,778 [38   ] ore.Mvc.Internal.ControllerActionInvoker - Route matched with {area = "app", action = "GetAll", controller = "Tenant"}. Executing action MyFirstBoilerPlate.MultiTenancy.TenantAppService.GetAll (MyFirstBoilerPlate.Application)
+INFO  2019-01-06 09:29:25,785 [38   ] pNetCore.Cors.Infrastructure.CorsService - Policy execution successful.
+INFO  2019-01-06 09:29:26,996 [38   ] ore.Mvc.Internal.ControllerActionInvoker - Executing action method MyFirstBoilerPlate.MultiTenancy.TenantAppService.GetAll (MyFirstBoilerPlate.Application) with arguments (MyFirstBoilerPlate.MultiTenancy.Dto.PagedTenantResultRequestDto) - Validation state: Valid
+INFO  2019-01-06 09:29:27,385 [31   ] .Mvc.Infrastructure.ObjectResultExecutor - Executing ObjectResult, writing value of type 'Abp.Web.Models.AjaxResponse'.
+INFO  2019-01-06 09:29:27,465 [31   ] ore.Mvc.Internal.ControllerActionInvoker - Executed action MyFirstBoilerPlate.Users.UserAppService.GetRoles (MyFirstBoilerPlate.Application) in 2872.2127ms
+INFO  2019-01-06 09:29:27,493 [31   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 3026.0632ms 200 application/json; charset=utf-8
+INFO  2019-01-06 09:29:27,848 [31   ] ore.Mvc.Internal.ControllerActionInvoker - Executed action method MyFirstBoilerPlate.Roles.RoleAppService.GetAll (MyFirstBoilerPlate.Application), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 2708.0297ms.
+INFO  2019-01-06 09:29:27,993 [36   ] ore.Mvc.Internal.ControllerActionInvoker - Executed action method MyFirstBoilerPlate.Users.UserAppService.GetAll (MyFirstBoilerPlate.Application), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 2806.7353ms.
+INFO  2019-01-06 09:29:28,581 [40   ] .Mvc.Infrastructure.ObjectResultExecutor - Executing ObjectResult, writing value of type 'Abp.Web.Models.AjaxResponse'.
+INFO  2019-01-06 09:29:28,633 [40   ] ore.Mvc.Internal.ControllerActionInvoker - Executed action MyFirstBoilerPlate.Roles.RoleAppService.GetAll (MyFirstBoilerPlate.Application) in 4791.935ms
+INFO  2019-01-06 09:29:28,644 [40   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 5291.4493ms 200 application/json; charset=utf-8
+INFO  2019-01-06 09:29:28,716 [35   ] ore.Mvc.Internal.ControllerActionInvoker - Executed action method MyFirstBoilerPlate.MultiTenancy.TenantAppService.GetAll (MyFirstBoilerPlate.Application), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 1713.0782ms.
+INFO  2019-01-06 09:29:28,779 [38   ] .Mvc.Infrastructure.ObjectResultExecutor - Executing ObjectResult, writing value of type 'Abp.Web.Models.AjaxResponse'.
+INFO  2019-01-06 09:29:28,795 [38   ] ore.Mvc.Internal.ControllerActionInvoker - Executed action MyFirstBoilerPlate.Users.UserAppService.GetAll (MyFirstBoilerPlate.Application) in 4173.3865ms
+INFO  2019-01-06 09:29:28,801 [38   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 4466.2836ms 200 application/json; charset=utf-8
+INFO  2019-01-06 09:29:28,959 [36   ] .Mvc.Infrastructure.ObjectResultExecutor - Executing ObjectResult, writing value of type 'Abp.Web.Models.AjaxResponse'.
+INFO  2019-01-06 09:29:28,967 [36   ] ore.Mvc.Internal.ControllerActionInvoker - Executed action MyFirstBoilerPlate.MultiTenancy.TenantAppService.GetAll (MyFirstBoilerPlate.Application) in 3184.0826ms
+INFO  2019-01-06 09:29:28,977 [36   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 3326.5342ms 200 application/json; charset=utf-8
+INFO  2019-01-06 09:29:30,858 [37   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 OPTIONS http://localhost:21021/api/services/app/User/GetAll?SkipCount=0&MaxResultCount=10  
+INFO  2019-01-06 09:29:30,864 [36   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 OPTIONS http://localhost:21021/api/services/app/User/GetRoles  
+INFO  2019-01-06 09:29:30,873 [37   ] pNetCore.Cors.Infrastructure.CorsService - Policy execution successful.
+INFO  2019-01-06 09:29:30,880 [36   ] pNetCore.Cors.Infrastructure.CorsService - Policy execution successful.
+INFO  2019-01-06 09:29:30,894 [37   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 28.3015ms 204 
+INFO  2019-01-06 09:29:30,899 [36   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 21.9227ms 204 
+INFO  2019-01-06 09:29:30,904 [37   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:21021/api/services/app/User/GetRoles application/json 
+INFO  2019-01-06 09:29:30,910 [36   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:21021/api/services/app/User/GetAll?SkipCount=0&MaxResultCount=10 application/json 
+INFO  2019-01-06 09:29:30,915 [37   ] pNetCore.Cors.Infrastructure.CorsService - Policy execution successful.
+INFO  2019-01-06 09:29:30,921 [36   ] pNetCore.Cors.Infrastructure.CorsService - Policy execution successful.
+INFO  2019-01-06 09:29:30,928 [37   ] uthentication.JwtBearer.JwtBearerHandler - Successfully validated the token.
+INFO  2019-01-06 09:29:30,942 [36   ] uthentication.JwtBearer.JwtBearerHandler - Successfully validated the token.
+WARN  2019-01-06 09:29:30,948 [36   ] calization.RequestLocalizationMiddleware - AbpUserRequestCultureProvider returned the following unsupported cultures 'null'.
+WARN  2019-01-06 09:29:30,953 [37   ] calization.RequestLocalizationMiddleware - AbpUserRequestCultureProvider returned the following unsupported cultures 'null'.
+WARN  2019-01-06 09:29:30,959 [36   ] calization.RequestLocalizationMiddleware - AbpUserRequestCultureProvider returned the following unsupported UI Cultures 'null'.
+WARN  2019-01-06 09:29:30,982 [37   ] calization.RequestLocalizationMiddleware - AbpUserRequestCultureProvider returned the following unsupported UI Cultures 'null'.
+WARN  2019-01-06 09:29:30,990 [36   ] calization.RequestLocalizationMiddleware - AbpDefaultRequestCultureProvider returned the following unsupported cultures 'null'.
+WARN  2019-01-06 09:29:31,011 [36   ] calization.RequestLocalizationMiddleware - AbpDefaultRequestCultureProvider returned the following unsupported UI Cultures 'null'.
+WARN  2019-01-06 09:29:31,017 [37   ] calization.RequestLocalizationMiddleware - AbpDefaultRequestCultureProvider returned the following unsupported cultures 'null'.
+WARN  2019-01-06 09:29:31,031 [37   ] calization.RequestLocalizationMiddleware - AbpDefaultRequestCultureProvider returned the following unsupported UI Cultures 'null'.
+INFO  2019-01-06 09:29:31,040 [36   ] ore.Mvc.Internal.ControllerActionInvoker - Route matched with {area = "app", action = "GetAll", controller = "User"}. Executing action MyFirstBoilerPlate.Users.UserAppService.GetAll (MyFirstBoilerPlate.Application)
+INFO  2019-01-06 09:29:31,048 [36   ] pNetCore.Cors.Infrastructure.CorsService - Policy execution successful.
+INFO  2019-01-06 09:29:31,072 [36   ] ore.Mvc.Internal.ControllerActionInvoker - Executing action method MyFirstBoilerPlate.Users.UserAppService.GetAll (MyFirstBoilerPlate.Application) with arguments (MyFirstBoilerPlate.Users.Dto.PagedUserResultRequestDto) - Validation state: Valid
+INFO  2019-01-06 09:29:31,079 [37   ] ore.Mvc.Internal.ControllerActionInvoker - Route matched with {area = "app", action = "GetRoles", controller = "User"}. Executing action MyFirstBoilerPlate.Users.UserAppService.GetRoles (MyFirstBoilerPlate.Application)
+INFO  2019-01-06 09:29:31,085 [37   ] pNetCore.Cors.Infrastructure.CorsService - Policy execution successful.
+INFO  2019-01-06 09:29:31,094 [37   ] ore.Mvc.Internal.ControllerActionInvoker - Executing action method MyFirstBoilerPlate.Users.UserAppService.GetRoles (MyFirstBoilerPlate.Application) - Validation state: Valid
+INFO  2019-01-06 09:29:31,441 [34   ] ore.Mvc.Internal.ControllerActionInvoker - Executed action method MyFirstBoilerPlate.Users.UserAppService.GetRoles (MyFirstBoilerPlate.Application), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 312.233ms.
+INFO  2019-01-06 09:29:31,800 [41   ] ore.Mvc.Internal.ControllerActionInvoker - Executed action method MyFirstBoilerPlate.Users.UserAppService.GetAll (MyFirstBoilerPlate.Application), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 714.9472ms.
+INFO  2019-01-06 09:29:32,130 [36   ] .Mvc.Infrastructure.ObjectResultExecutor - Executing ObjectResult, writing value of type 'Abp.Web.Models.AjaxResponse'.
+INFO  2019-01-06 09:29:32,140 [36   ] ore.Mvc.Internal.ControllerActionInvoker - Executed action MyFirstBoilerPlate.Users.UserAppService.GetRoles (MyFirstBoilerPlate.Application) in 1050.5485ms
+INFO  2019-01-06 09:29:32,147 [36   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 1240.6171ms 200 application/json; charset=utf-8
+INFO  2019-01-06 09:29:32,264 [34   ] .Mvc.Infrastructure.ObjectResultExecutor - Executing ObjectResult, writing value of type 'Abp.Web.Models.AjaxResponse'.
+INFO  2019-01-06 09:29:32,276 [34   ] ore.Mvc.Internal.ControllerActionInvoker - Executed action MyFirstBoilerPlate.Users.UserAppService.GetAll (MyFirstBoilerPlate.Application) in 1223.7641ms
+INFO  2019-01-06 09:29:32,285 [34   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 1372.3136ms 200 application/json; charset=utf-8
+INFO  2019-01-06 09:29:45,648 [34   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 OPTIONS http://localhost:21021/api/services/app/Role/GetAll?SkipCount=0&MaxResultCount=10  
+INFO  2019-01-06 09:29:45,655 [40   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 OPTIONS http://localhost:21021/api/services/app/Role/GetAllPermissions  
+INFO  2019-01-06 09:29:45,661 [34   ] pNetCore.Cors.Infrastructure.CorsService - Policy execution successful.
+INFO  2019-01-06 09:29:45,668 [40   ] pNetCore.Cors.Infrastructure.CorsService - Policy execution successful.
+INFO  2019-01-06 09:29:45,675 [40   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 20.086ms 204 
+INFO  2019-01-06 09:29:45,685 [34   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 27.4493ms 204 
+INFO  2019-01-06 09:29:45,694 [40   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:21021/api/services/app/Role/GetAll?SkipCount=0&MaxResultCount=10 application/json 
+INFO  2019-01-06 09:29:45,700 [34   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:21021/api/services/app/Role/GetAllPermissions application/json 
+INFO  2019-01-06 09:29:45,706 [40   ] pNetCore.Cors.Infrastructure.CorsService - Policy execution successful.
+INFO  2019-01-06 09:29:45,711 [34   ] pNetCore.Cors.Infrastructure.CorsService - Policy execution successful.
+INFO  2019-01-06 09:29:45,721 [40   ] uthentication.JwtBearer.JwtBearerHandler - Successfully validated the token.
+INFO  2019-01-06 09:29:45,728 [34   ] uthentication.JwtBearer.JwtBearerHandler - Successfully validated the token.
+WARN  2019-01-06 09:29:45,735 [40   ] calization.RequestLocalizationMiddleware - AbpUserRequestCultureProvider returned the following unsupported cultures 'null'.
+WARN  2019-01-06 09:29:45,747 [34   ] calization.RequestLocalizationMiddleware - AbpUserRequestCultureProvider returned the following unsupported cultures 'null'.
+WARN  2019-01-06 09:29:45,752 [40   ] calization.RequestLocalizationMiddleware - AbpUserRequestCultureProvider returned the following unsupported UI Cultures 'null'.
+WARN  2019-01-06 09:29:45,758 [34   ] calization.RequestLocalizationMiddleware - AbpUserRequestCultureProvider returned the following unsupported UI Cultures 'null'.
+WARN  2019-01-06 09:29:45,763 [40   ] calization.RequestLocalizationMiddleware - AbpDefaultRequestCultureProvider returned the following unsupported cultures 'null'.
+WARN  2019-01-06 09:29:45,769 [34   ] calization.RequestLocalizationMiddleware - AbpDefaultRequestCultureProvider returned the following unsupported cultures 'null'.
+WARN  2019-01-06 09:29:45,776 [40   ] calization.RequestLocalizationMiddleware - AbpDefaultRequestCultureProvider returned the following unsupported UI Cultures 'null'.
+WARN  2019-01-06 09:29:45,784 [34   ] calization.RequestLocalizationMiddleware - AbpDefaultRequestCultureProvider returned the following unsupported UI Cultures 'null'.
+INFO  2019-01-06 09:29:45,793 [40   ] ore.Mvc.Internal.ControllerActionInvoker - Route matched with {area = "app", action = "GetAll", controller = "Role"}. Executing action MyFirstBoilerPlate.Roles.RoleAppService.GetAll (MyFirstBoilerPlate.Application)
+INFO  2019-01-06 09:29:45,814 [40   ] pNetCore.Cors.Infrastructure.CorsService - Policy execution successful.
+INFO  2019-01-06 09:29:45,824 [34   ] ore.Mvc.Internal.ControllerActionInvoker - Route matched with {area = "app", action = "GetAllPermissions", controller = "Role"}. Executing action MyFirstBoilerPlate.Roles.RoleAppService.GetAllPermissions (MyFirstBoilerPlate.Application)
+INFO  2019-01-06 09:29:45,833 [40   ] ore.Mvc.Internal.ControllerActionInvoker - Executing action method MyFirstBoilerPlate.Roles.RoleAppService.GetAll (MyFirstBoilerPlate.Application) with arguments (MyFirstBoilerPlate.Roles.Dto.PagedRoleResultRequestDto) - Validation state: Valid
+INFO  2019-01-06 09:29:45,845 [34   ] pNetCore.Cors.Infrastructure.CorsService - Policy execution successful.
+INFO  2019-01-06 09:29:45,853 [34   ] ore.Mvc.Internal.ControllerActionInvoker - Executing action method MyFirstBoilerPlate.Roles.RoleAppService.GetAllPermissions (MyFirstBoilerPlate.Application) - Validation state: Valid
+INFO  2019-01-06 09:29:45,861 [34   ] ore.Mvc.Internal.ControllerActionInvoker - Executed action method MyFirstBoilerPlate.Roles.RoleAppService.GetAllPermissions (MyFirstBoilerPlate.Application), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 1.5642ms.
+INFO  2019-01-06 09:29:46,352 [40   ] ore.Mvc.Internal.ControllerActionInvoker - Executed action method MyFirstBoilerPlate.Roles.RoleAppService.GetAll (MyFirstBoilerPlate.Application), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 505.3223ms.
+INFO  2019-01-06 09:29:46,380 [34   ] .Mvc.Infrastructure.ObjectResultExecutor - Executing ObjectResult, writing value of type 'Abp.Web.Models.AjaxResponse'.
+INFO  2019-01-06 09:29:46,388 [34   ] ore.Mvc.Internal.ControllerActionInvoker - Executed action MyFirstBoilerPlate.Roles.RoleAppService.GetAllPermissions (MyFirstBoilerPlate.Application) in 547.0833ms
+INFO  2019-01-06 09:29:46,394 [34   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 693.9113ms 200 application/json; charset=utf-8
+INFO  2019-01-06 09:29:46,588 [34   ] .Mvc.Infrastructure.ObjectResultExecutor - Executing ObjectResult, writing value of type 'Abp.Web.Models.AjaxResponse'.
+INFO  2019-01-06 09:29:46,596 [34   ] ore.Mvc.Internal.ControllerActionInvoker - Executed action MyFirstBoilerPlate.Roles.RoleAppService.GetAll (MyFirstBoilerPlate.Application) in 795.5901ms
+INFO  2019-01-06 09:29:46,602 [34   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 910.7672ms 200 application/json; charset=utf-8
+INFO  2019-01-06 09:29:50,155 [34   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 OPTIONS http://localhost:21021/api/services/app/Role/GetRoleForEdit?Id=1  
+INFO  2019-01-06 09:29:50,160 [34   ] pNetCore.Cors.Infrastructure.CorsService - Policy execution successful.
+INFO  2019-01-06 09:29:50,166 [34   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 11.6036ms 204 
+INFO  2019-01-06 09:29:50,172 [34   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:21021/api/services/app/Role/GetRoleForEdit?Id=1 application/json 
+INFO  2019-01-06 09:29:50,179 [34   ] pNetCore.Cors.Infrastructure.CorsService - Policy execution successful.
+INFO  2019-01-06 09:29:50,188 [34   ] uthentication.JwtBearer.JwtBearerHandler - Successfully validated the token.
+WARN  2019-01-06 09:29:50,196 [34   ] calization.RequestLocalizationMiddleware - AbpUserRequestCultureProvider returned the following unsupported cultures 'null'.
+WARN  2019-01-06 09:29:50,201 [34   ] calization.RequestLocalizationMiddleware - AbpUserRequestCultureProvider returned the following unsupported UI Cultures 'null'.
+WARN  2019-01-06 09:29:50,207 [34   ] calization.RequestLocalizationMiddleware - AbpDefaultRequestCultureProvider returned the following unsupported cultures 'null'.
+WARN  2019-01-06 09:29:50,212 [34   ] calization.RequestLocalizationMiddleware - AbpDefaultRequestCultureProvider returned the following unsupported UI Cultures 'null'.
+INFO  2019-01-06 09:29:50,226 [34   ] ore.Mvc.Internal.ControllerActionInvoker - Route matched with {area = "app", action = "GetRoleForEdit", controller = "Role"}. Executing action MyFirstBoilerPlate.Roles.RoleAppService.GetRoleForEdit (MyFirstBoilerPlate.Application)
+INFO  2019-01-06 09:29:50,231 [34   ] pNetCore.Cors.Infrastructure.CorsService - Policy execution successful.
+INFO  2019-01-06 09:29:50,242 [34   ] ore.Mvc.Internal.ControllerActionInvoker - Executing action method MyFirstBoilerPlate.Roles.RoleAppService.GetRoleForEdit (MyFirstBoilerPlate.Application) with arguments (Abp.Application.Services.Dto.EntityDto) - Validation state: Valid
+INFO  2019-01-06 09:29:50,528 [40   ] ore.Mvc.Internal.ControllerActionInvoker - Executed action method MyFirstBoilerPlate.Roles.RoleAppService.GetRoleForEdit (MyFirstBoilerPlate.Application), returned result Microsoft.AspNetCore.Mvc.ObjectResult in 279.2866ms.
+INFO  2019-01-06 09:29:50,755 [40   ] .Mvc.Infrastructure.ObjectResultExecutor - Executing ObjectResult, writing value of type 'Abp.Web.Models.AjaxResponse'.
+INFO  2019-01-06 09:29:50,764 [40   ] ore.Mvc.Internal.ControllerActionInvoker - Executed action MyFirstBoilerPlate.Roles.RoleAppService.GetRoleForEdit (MyFirstBoilerPlate.Application) in 532.3275ms
+INFO  2019-01-06 09:29:50,781 [40   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 598.2316ms 200 application/json; charset=utf-8
