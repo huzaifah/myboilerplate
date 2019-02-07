@@ -14,6 +14,7 @@ using MyFirstBoilerPlate.EntityFrameworkCore;
 using MyFirstBoilerPlate.EntityFrameworkCore.Seed.Host;
 using MyFirstBoilerPlate.EntityFrameworkCore.Seed.Tenants;
 using MyFirstBoilerPlate.MultiTenancy;
+using MyFirstBoilerPlate.Tests.InitialData;
 
 namespace MyFirstBoilerPlate.Tests
 {
@@ -35,6 +36,7 @@ namespace MyFirstBoilerPlate.Tests
                 NormalizeDbContext(context);
                 new InitialHostDbBuilder(context).Create();
                 new DefaultTenantBuilder(context).Create();
+                new TestDataBuilder(context).Build();
             });
 
             // Seed initial data for default tenant
